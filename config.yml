@@ -1,0 +1,5 @@
+baseURL: "qygong17.github.io"
+languageCode: zh-cn
+title: Qingyuan
+theme: PaperMod
+paginate: 10
