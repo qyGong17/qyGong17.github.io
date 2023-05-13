@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test Hugo and PaperMod on Fantasy237</title>
+    <link>qygong17.github.io/tags/test-hugo-and-papermod/</link>
+    <description>Recent content in test Hugo and PaperMod on Fantasy237</description>
+    <image>
+      <title>Fantasy237</title>
+      <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 May 2023 18:42:24 +0800</lastBuildDate><atom:link href="qygong17.github.io/tags/test-hugo-and-papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test math and figures</title>
+      <link>qygong17.github.io/posts/test-figure-and-math/</link>
+      <pubDate>Sat, 13 May 2023 18:42:24 +0800</pubDate>
+      
+      <guid>qygong17.github.io/posts/test-figure-and-math/</guid>
+      <description>Math Typeset math from: Writing math with Hugo | Misha Brukman
+test inline: $\psi_{rq} =L_ri_{rq}- \frac{L_{M}^{2}}{L_{s}}i_{rq}$
+test align: use 6 backslashes \\\\\\ instead of 2 \\, it works, but is odd&amp;hellip;
+$$ \begin{aligned} u_{rd} &amp;amp;= R_ri_{rd}+ \sigma L_{r}\frac{d i_{rd}}{dt}-\omega_{s1}\sigma L_{r}i_{rq}+ \left(\frac{L_{M}}{L_{s}}\frac{d}{dt}\psi_{s}\approx 0 \right)\\\ u_{rq} &amp;amp;= R_ri_{rq}+\sigma L_{r}\frac{d i_{rq}}{dt}+\omega_{s1}\sigma L_{r}i_{rd}+\omega_{s1}\frac{L_{M}}{L_{s}} \psi_s \end{aligned} $$
+Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local figure, ![](/images/test_image.png), while the actual image file is in \static\images: Use local image and tips: Rendering Images in Markdown Preview of Hugo Site | Mike F.</description>
+    </item>
+    
+  </channel>
+</rss>

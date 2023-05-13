@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Fantasy237</title>
-    <link>qygong17.github.io/</link>
-    <description>Recent content on Fantasy237</description>
+    <title>Posts on Fantasy237</title>
+    <link>qygong17.github.io/posts/</link>
+    <description>Recent content in Posts on Fantasy237</description>
     <image>
       <title>Fantasy237</title>
       <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 May 2023 18:42:24 +0800</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 18:42:24 +0800</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test math and figures</title>
       <link>qygong17.github.io/posts/test-figure-and-math/</link>
@@ -35,17 +35,6 @@ Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local
 背景之类不再重复。主要记录操作方法等。
 Zettelkasten方法 接收信息：书、文章、视频、播客等 记笔记 为哪些内容做笔记： 有些人说，大部分感兴趣的东西都可以记下来 自己的一些想法 笔记里有什么 记录：尽量做到只看自己的记录就能理解这个笔记的内容，而不需要再去看之前的原文 来源：记录这个笔记来自哪里，备用。 标志：便于引用（数字化的笔记中，这是挺容易的，比如使用文件名+日期） 和其他笔记的关系：见 处理笔记 处理笔记 整理： 之前记录的笔记中，有些是临时的一些想法，有些结构比较混乱， How To Take Smart Notes (3 methods no one&amp;rsquo;s talking about) 2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up - YouTube 目标： 完整地解释一个最小的内容（atomic note） 用自己的话 建立新的笔记与现有笔记之间的关系——在我看来也是一个学习的过程，逐渐深入或者拓展。 另外一些操作：添加对应的标签等等。 写作 需要时刻记得，做笔记是为了什么，比如，变成自己的思考、转换成文章、视频、用于项目等 如果不输出，最后得到的也只是一堆双链笔记。 可以先列一个大纲-&amp;gt;把之前的相关的笔记填进去。然后再基于这个大纲，再完成最终的作品 但注意，这一步可能还是需要花很多的时间 Zettelkasten可以提升写作效率，但并不能代替最终的写作。 一些想法 坚持记录和写作，相信这个过程。Trust the Process 坚持用自己的话来描述——是在练习写作，同时也有助于加深理解。 Zettelkasten也可以用在工科的学术写作，比如这篇文章：Field Report #1: A PhD About Writing with His Zettelkasten • Zettelkasten Method。印象最深的是： 新的想法还是来自阅读和与人交流，而不是来自 Zettelkasten本身，但是Zettelkasten能帮助建立现有想法之间的联系。 一些想法和观点是通用的，不应被限制在某个项目中。——Luhmann’s Zettelkasten其实只有2个文件夹：文献、想法。 虽然基于 Zettelkasten笔记能快速建立一个大纲，最终的整理和写作还是困难的。 最后，不要花太多时间在工具或系统上：你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等_Fantasy237的博客 另外一些资料 推荐这个视频，5分钟左右把关键信息描述清楚：Zettelkasten Note-Taking Method: Simply Explained - YouTube 另外，有这个网站：Getting Started • Zettelkasten Method 这是翻译（粗粗一看，可能是机翻）：Zettelkasten方法简介 - 知乎 (zhihu.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>qygong17.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>qygong17.github.io/about/</guid>
-      <description>About</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
