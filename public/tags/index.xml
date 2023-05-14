@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 22:55:24 +0800</lastBuildDate><atom:link href="qygong17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian</title>
+      <link>qygong17.github.io/tags/obsidian/</link>
+      <pubDate>Sun, 14 May 2023 22:55:24 +0800</pubDate>
+      
+      <guid>qygong17.github.io/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>qygong17.github.io/tags/video/</link>
+      <pubDate>Sun, 14 May 2023 22:55:24 +0800</pubDate>
+      
+      <guid>qygong17.github.io/tags/video/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>test Hugo and PaperMod</title>
       <link>qygong17.github.io/tags/test-hugo-and-papermod/</link>
