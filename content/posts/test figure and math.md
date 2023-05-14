@@ -1,6 +1,6 @@
 ---
 title: "Test math and figures"
-date: 2023-05-13T18:42:24+08:00
+date: 2023-05-14
 draft: False
 math: katex
 tags: ["test Hugo and PaperMod"]
@@ -22,14 +22,18 @@ $$
 $$
 
 # Figure
-A figure from my oss, Markdown syntax `![](myoss.com/1.png`) works:
-![](https://pics1237.oss-cn-shenzhen.aliyuncs.com/20230427223520.png)
+A figure from my oss, Markdown syntax `![](myoss.com/1.png)` works:
+![](https://pics1237.oss-cn-shenzhen.aliyuncs.com/20230427223520.png "")
 
 A local figure, `![](/images/test_image.png)`, while the actual image file is in `\static\images`: 
-![Image not found: /images/test_image.png](/images/test_image.png "Image not found: /images/test_image.png")
+![/images/test_image.png](/images/test_image.png)
 
 Use local image and tips: [Rendering Images in Markdown Preview of Hugo Site | Mike F. Robbins (mikefrobbins.com)](https://mikefrobbins.com/2023/02/08/rendering-images-in-markdown-preview-of-hugo-site/)
 
+
+Switched to PicGo with Github repo, also works:
+
+![](https://raw.githubusercontent.com/qyGong17/figs0/main/img/20230514090029.png)
 
 # Github Pages and deploy
 

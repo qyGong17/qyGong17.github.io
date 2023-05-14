@@ -1,6 +1,6 @@
 baseURL: "qygong17.github.io"
 languageCode: zh-cn
-title: Fantasy237
+title: Qingyuan's Notebook
 theme: PaperMod
 paginate: 10
 
@@ -31,22 +31,22 @@ taxonomies:
   series: series 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Fantasy237
+  title: Qingyuan's Notebook
   description: "Blog description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Fantasy237
+  author: Qingyuan
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: false
   disableSpecial1stPost: false
@@ -60,14 +60,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    # favicon: "<link / abs url>"
-    # favicon16x16: "<link / abs url>"
-    # favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "<link / abs url>"
+    favicon: "/assets/favicon.ico"
+    favicon16x16: "/assets/favicon-16x16.png"
+    favicon32x32: "/assets/favicon-32x32.png"
+    apple_touch_icon: "/assets/apple-touch-icon.png"
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Fantasy237"
+    text: "Qingyuan's Notebook"
     icon: 
     iconHeight: 35
 
@@ -75,7 +75,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Fantasy237
-    subtitle: "profile mode测试中。"
+    subtitle: "test"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -88,7 +88,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Fantasy237"
+    Title: "Qingyuan's Notebook"
     Content: Welcome to my blog! I am a hardware engineer and I write about random stuff. 
 
   socialIcons:
@@ -108,10 +108,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
- # editPost:
- #   URL: "https://github.com/<path_to_repo>/content"
- #   Text: "Suggest Changes" # edit text
- #  appendFilePath: true # to append file path to Edit link
+  editPost:
+    URL: "https://github.com/qyGong17/qyGong17.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -147,9 +147,16 @@ menu:
 pygmentsUseClasses: true
 markup:
   highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    noHl: false
+    style: monokai
+    tabWidth: 4
