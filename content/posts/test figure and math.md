@@ -1,5 +1,5 @@
 ---
-title: "Test math and figures"
+title: "Test math, figure, tags, toc"
 date: 2023-05-14
 draft: False
 math: katex
@@ -78,6 +78,14 @@ taxonomies:
   tag: tags
   series: series 
 ```
+
+## toc
+Many thanks to: [Hugo侧边目录 | 3rd's Blog](https://333rd.net/posts/tech/hugo%E4%BE%A7%E8%BE%B9%E7%9B%AE%E5%BD%95/#:~:text=PaperMod,%E4%BF%AE%E6%94%B9%E4%B8%BA%E4%BE%A7%E8%BE%B9%E7%9B%AE%E5%BD%95%E3%80%82)
+
+and 
+
+[Hugo博客目录放在侧边 | PaperMod主题 | Sulv's Blog (sulvblog.cn)](https://www.sulvblog.cn/posts/blog/hugo_toc_side/)
+
 
 # Reference
 

@@ -48,7 +48,7 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
-  UseHugoToc: false
+  UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -89,7 +89,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Qingyuan's Notebook"
-    Content: Welcome to my blog! I am a hardware engineer and I write about random stuff. 
+    Content: Welcome to my blog! I write about random stuff, and I work as a hardware (electronics) engineer. 
 
   socialIcons:
     - name: github
