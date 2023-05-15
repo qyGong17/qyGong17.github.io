@@ -1,8 +1,8 @@
 baseURL: "qygong17.github.io"
 languageCode: zh-cn
-title: Qingyuan's Notebook
+title: QY's Notes
 theme: PaperMod
-paginate: 10
+paginate: 5
 
 
 enableRobotsTXT: true
@@ -31,10 +31,10 @@ taxonomies:
   series: series 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Qingyuan's Notebook
+  title: QY's Notes
   description: "Blog description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Qingyuan
+  author: QY
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -67,14 +67,14 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Qingyuan's Notebook"
+    text: "QY's Notes"
     icon: 
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Fantasy237
+    title: QY's Notes
     subtitle: "test"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -88,8 +88,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Qingyuan's Notebook"
-    Content: Welcome to my blog! I write about random stuff, and I work as a hardware (electronics) engineer. 
+    Title: "QY's Notes"
+    Content: Welcome to my blog! I write about random stuff, and I work as a hardware (electronics) engineer. I used to write [here](https://blog.csdn.net/qq_34181877?spm=1011.2415.3001.5343) (in Chinese).
 
   socialIcons:
     - name: github

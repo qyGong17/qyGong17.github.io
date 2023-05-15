@@ -44,7 +44,7 @@ tags: ["zettelkasten"]
 	1. 新的想法还是来自阅读和与人交流，而不是来自 Zettelkasten本身，但是Zettelkasten能帮助建立现有想法之间的联系。
 	2. 一些想法和观点是通用的，不应被限制在某个项目中。——Luhmann’s Zettelkasten其实只有2个文件夹：文献、想法。
 	3. 虽然基于 Zettelkasten笔记能快速建立一个大纲，最终的整理和写作还是困难的。
-4. 最后，不要花太多时间在工具或系统上：[你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等_Fantasy237的博客](https://blog.csdn.net/qq_34181877/article/details/130549980?spm=1001.2014.3001.5501)
+4. 最后，不要花太多时间在工具或系统上：[你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等](https://qygong17.github.io/posts/thoughts-on-second-brain/)
 
 
 # 另外一些资料

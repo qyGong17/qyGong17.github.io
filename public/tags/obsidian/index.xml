@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Obsidian on Qingyuan&#39;s Notebook</title>
+    <title>Obsidian on QY&#39;s Notes</title>
     <link>qygong17.github.io/tags/obsidian/</link>
-    <description>Recent content in Obsidian on Qingyuan&#39;s Notebook</description>
+    <description>Recent content in Obsidian on QY&#39;s Notes</description>
     <image>
-      <title>Qingyuan&#39;s Notebook</title>
+      <title>QY&#39;s Notes</title>
       <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -24,6 +24,22 @@
 PKM没有输出，只是一个辅助系统 优化PKM和笔记软件，让我们看起来很厉害很聪明，是一种高级的拖延方法，让我们在没开始工作时就获得了一种“已完成”的感觉，类似： 一直在做学习前的各种准备工作 做很复杂（并且没必要）的计划， 看很多方法学相关的书。 一直和人讨论自己的想法，从来不开始做 博主自己的经历和感受 一开始觉得双链笔记看起来好高级，用了以后感觉自己都变聪明了 但是发现输出的东西、所做的工作、以及自己实际上其实并没有显得更聪明——这只是一种“变聪明的错觉” 看起来是在做准备工作，但是从结果来看，其实和看Netflix、打游戏没什么区别 好的PKM是开始工作的前提吗？ 大部分人会否认，但是潜意识里又掉进了这个“优化PKM”的陷阱。
 陷入添加、优化新功能，换新的工具的无底洞中 一直在换新工具，期待有一个革命性的工具来完全改变自己的工作 一直在优化自己的工具，看教程，学各种复杂操作（Obsidian的一大堆插件其实也挺像个陷阱） 以为做了这个优化、用了这个工具，我的效率就会突然提高两倍——实际上并不会 工作过程中，都会有不确定性、混乱、无奈，不可能先把做事情的系统调整到完美，再开始做事情。 collector&amp;rsquo;s fallacy: 收集的信息本身并没有用，而是要看我们基于这些信息，输出了什么。 没有一个完美的系统，对于现有的笔记软件，总有一个新软件比旧软件在某个方面好那么一点点。而追逐这么一点点效率（比如，在Obsidian里基于双链打开相关的笔记，和在一个文件夹里根据文件名搜一个word文档），不是在工作。 好的PKM系统可以提高效率，但是并不能代替努力工作。 怎样不落入这个陷阱？ 使用不完美的系统持续工作和输出——所有系统都不可能是完美的。
 意识到优化PKM不是工作： 如果潜意识认为PKM是在工作，你就可能会花大量的时间来优化这个系统。 博主自己也换了不少的笔记工具，觉得这些切换工具花费的时间应该被用来做实际的工作。 我感觉自己也花了太多时间在上面，（其实，很多Obsidian教程我都看不懂。。。） 用自己顺手的工具，高效地工作。（Good enough） 锻炼肌肉需要一定的锻炼和饮食，而不是一个最佳的锻炼计划。 作家的成果： 有优秀PKM系统的作家，可以高效写作； 持续写作的作家，可能效率不高，但也能出成果； 而一直在拖延、优化PKM、做笔记的作家，实际上什么都没做。 在看到新的工具和PKM系统时，问自己： 真的需要这些新的功能吗？ 真的有必要切换工具吗？ 我自己昨天的经历（这也不是视频里的）：拍了个视频，想要截取其中的部分画面，再转成gif，放到博文里去（FPGA: Verilog LED呼吸灯_Fantasy237的博客），但是以前没做过这种操作，刚准备搜个软件来学一下——想到，在播放视频时，用录屏软件截屏就好了，不需要什么新的软件。 想一想一些例子： 博主的一个朋友，用Evernote和Word，创业做得不错。 博主的另一个朋友，只用纸笔，也写出了优秀的作品。 以前都没有电脑，还是有人能做出影响世界的东西。 一些建议 用一个系统或一个笔记软件，坚持半年以上，最好是正在使用的——不需要更厉害的新工具。 相信自己的能力和思考，比依赖所谓“第二大脑”更重要。——不要害怕因为没做某个笔记，就错过了什么重要的东西。保持阅读和输出。 基于一些项目——比如要写的一篇博文——来做笔记。因为值得记录的东西是无穷无尽的，需要加以筛选。 优先完成工作和提升所需的能力，而不是一直去调整做笔记的方法或者PKM系统。 设置一些限制，比如，只在周日花2小时优化PKM系统，其他时间只基于现有的系统去完成工作。（比如我现在这样） 用Epictetus的一段话作为结束（这是我突然想起来的，不是视频里的）：</description>
+    </item>
+    
+    <item>
+      <title>Obsidian templater日记模板添加一个随机问题和Templater Javascript</title>
+      <link>qygong17.github.io/posts/random-questions-for-my-daily-notes/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/random-questions-for-my-daily-notes/</guid>
+      <description>简介 每天日记里写同样的东西，感觉有点无聊，想问自己一些问题，每天不同。
+查到有插件random structural diary，我想要的功能就是这样，但是没懂这个插件怎么放进template。
+想要的功能很简单，所以自己写一个：新建一个日记时，从一个自己设定的问题列表中选择一个，打印在日记中。
+写一个简单的脚本 randomDailyQuestion.js:
+1 2 3 4 5 6 7 8 9 10 11 12 function randomDailyQuestion() { let myQuestionArray = []; myQuestionArray.push(&amp;#34;Question apple&amp;#34;); myQuestionArray.push(&amp;#34;Question banana&amp;#34;); myQuestionArray.push(&amp;#34;Question orange&amp;#34;); let randomIndex = Math.floor(Math.random() * myQuestionArray.length); let randomQuestion = myQuestionArray[randomIndex]; return randomQuestion; } module.exports = randomDailyQuestion （语法全问GPT，比自己搜快多了） Templater设置 设置存放程序的目录：
+加入template 在对应的template代码中加入刚才的脚本，比如这里是在日期下面加了这个问题：
+# &amp;lt;% tp.date.now(&amp;#34;dddd MMMM Do YYYY&amp;#34;) %&amp;gt;&amp;lt;% tp.user.randomDailyQuestion(tp) %&amp;gt; 最终结果 上面两行显示为： 每次会打印其中一个问题。
+警告 注意，个人知识管理（personal knowledge management, PKM）并不等于实际的工作（除非你是这方面的博主）。不要花大量时间在这些花里胡哨的东西上面。去干活！！！</description>
     </item>
     
   </channel>

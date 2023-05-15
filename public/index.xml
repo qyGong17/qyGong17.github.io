@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Qingyuan&#39;s Notebook</title>
+    <title>QY&#39;s Notes</title>
     <link>qygong17.github.io/</link>
-    <description>Recent content on Qingyuan&#39;s Notebook</description>
+    <description>Recent content on QY&#39;s Notes</description>
     <image>
-      <title>Qingyuan&#39;s Notebook</title>
+      <title>QY&#39;s Notes</title>
       <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 May 2023 22:55:24 +0800</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>双拼输入法体验记录</title>
+      <link>qygong17.github.io/posts/shuang-pin/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/shuang-pin/</guid>
+      <description>背景 主要是记录一下使用双拼的体验和学习过程，以此为例，多体验一些有趣、可能会有帮助的东西。
+输入法：搜狗输入法+小鹤双拼的键位，因为感觉小鹤比较常用？另外，IOS里面也一样可以用小鹤。
+学习双拼的主要原因其实就是为了玩（目前看来用处的确不是特别大）：
+玩 学习一点新技能，毕竟以前只会全拼，试试有没有其他的方案（不敢学五笔。。） 一点点反应力锻炼 可能以后可以提升打字速度？——不过目前看效果不明显（毕竟全拼快的时候可以120wpm，现在双拼用了三周，大概在50-60wpm左右，只有一半，不过日常够用了） 心得体会 一部分情况下，和全拼没有区别，比如，打“比如”这类词——这也是双拼比较容易学的一个原因。 需要记忆的键位其实只有十几个，使用大约一两天以后，就基本不会忘了（虽然可能需要比较长的时间才能反应过来）。 有一些词，的确不如超级简拼方便，比如一些成语，用全拼的时候，打几个首字母就出来了。 尽量不要打开“双拼+全拼”功能，虽然可能在学习初期会比较方便，但可能会影响双拼的学习，毕竟打开这个功能以后，有些词的拼法就不太一样了。 按键次数明显变少了，毕竟，ang-H，uang-L等等，这些映射还是很方便的。少按好几个键。所以理论上我可以打得更快？ 在手机上用双拼感觉特别方便。手机的问题就是键盘太小，用双拼可以减少按错的次数。（而且用的是IOS自带的垃圾输入法，用双拼减少按键的同时，还能多给点信息，挺好的） 体验只用双拼三周以后，其实日常使用已经没有问题了，后面就看进一步熟悉以后，能不能继续提高了。总得来说还是一次比较有意思、也有用的尝试。 有人说学双拼会影响英文输入：我没体会到，毕竟是两个完全不同的输入系统，没有什么干涉。而且我也没忘记键盘每个键的位置，只是用双拼时，某些键有了一些特殊含义。 使用记录 2022.11.28 初次使用。直接上手觉得人都傻了。暂时先搜狗输入法，开着双拼+全拼用着。 2022.11.29 关闭了全拼：刚才拼“所”字，打不出来，差点以为记错了，结果发现是因为开了全拼，so也会出现“搜” 2022.12.1 基本上是每个词卡一下的状态。但是的确不用再看键位表了。 2022.12.2 大概每分钟40词 2022.12.7 还是和几天前差不多，基本上是每个词需要想一想才能打出来。有时候还是会错。 2022.12.10 一两个词，可以打得比较连贯。但是词一多，对于一个短句，还是需要想一想。 2022.12.11 偶尔错词，主要集中在C、D、V、U、I这些比较难记的键位上，但是还可接受。总得来说还是值得体验的，特别是在手机上，和单手打字的情况。 2022.12.18 三周以后，其实日常使用已经没有问题了 2023.5.15 看到之前的记录，发现已经持续用双拼大半年了。总得来说是值得学习一下的，这段时间没用过全拼。缺点可能就是，现在全拼不太熟练了吧。 </description>
+    </item>
+    
     <item>
       <title>你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等</title>
       <link>qygong17.github.io/posts/thoughts-on-second-brain/</link>
@@ -65,7 +77,34 @@ Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local
       <guid>qygong17.github.io/posts/learn_zettelkasten_blog/</guid>
       <description>使用Zettelkasten方法做笔记 最近总看到Zettelkasten方法，看了一些视频和文章，主要看下怎么操作、从这个方法中可以学到什么。
 背景之类不再重复。主要记录操作方法等。
-Zettelkasten方法 接收信息：书、文章、视频、播客等 记笔记 为哪些内容做笔记： 有些人说，大部分感兴趣的东西都可以记下来 自己的一些想法 笔记里有什么 记录：尽量做到只看自己的记录就能理解这个笔记的内容，而不需要再去看之前的原文 来源：记录这个笔记来自哪里，备用。 标志：便于引用（数字化的笔记中，这是挺容易的，比如使用文件名+日期） 和其他笔记的关系：见 处理笔记 处理笔记 整理： 之前记录的笔记中，有些是临时的一些想法，有些结构比较混乱， How To Take Smart Notes (3 methods no one&amp;rsquo;s talking about) 2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up - YouTube 目标： 完整地解释一个最小的内容（atomic note） 用自己的话 建立新的笔记与现有笔记之间的关系——在我看来也是一个学习的过程，逐渐深入或者拓展。 另外一些操作：添加对应的标签等等。 写作 需要时刻记得，做笔记是为了什么，比如，变成自己的思考、转换成文章、视频、用于项目等 如果不输出，最后得到的也只是一堆双链笔记。 可以先列一个大纲-&amp;gt;把之前的相关的笔记填进去。然后再基于这个大纲，再完成最终的作品 但注意，这一步可能还是需要花很多的时间 Zettelkasten可以提升写作效率，但并不能代替最终的写作。 一些想法 坚持记录和写作，相信这个过程。Trust the Process 坚持用自己的话来描述——是在练习写作，同时也有助于加深理解。 Zettelkasten也可以用在工科的学术写作，比如这篇文章：Field Report #1: A PhD About Writing with His Zettelkasten • Zettelkasten Method。印象最深的是： 新的想法还是来自阅读和与人交流，而不是来自 Zettelkasten本身，但是Zettelkasten能帮助建立现有想法之间的联系。 一些想法和观点是通用的，不应被限制在某个项目中。——Luhmann’s Zettelkasten其实只有2个文件夹：文献、想法。 虽然基于 Zettelkasten笔记能快速建立一个大纲，最终的整理和写作还是困难的。 最后，不要花太多时间在工具或系统上：你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等_Fantasy237的博客 另外一些资料 推荐这个视频，5分钟左右把关键信息描述清楚：Zettelkasten Note-Taking Method: Simply Explained - YouTube 另外，有这个网站：Getting Started • Zettelkasten Method 这是翻译（粗粗一看，可能是机翻）：Zettelkasten方法简介 - 知乎 (zhihu.</description>
+Zettelkasten方法 接收信息：书、文章、视频、播客等 记笔记 为哪些内容做笔记： 有些人说，大部分感兴趣的东西都可以记下来 自己的一些想法 笔记里有什么 记录：尽量做到只看自己的记录就能理解这个笔记的内容，而不需要再去看之前的原文 来源：记录这个笔记来自哪里，备用。 标志：便于引用（数字化的笔记中，这是挺容易的，比如使用文件名+日期） 和其他笔记的关系：见 处理笔记 处理笔记 整理： 之前记录的笔记中，有些是临时的一些想法，有些结构比较混乱， How To Take Smart Notes (3 methods no one&amp;rsquo;s talking about) 2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up - YouTube 目标： 完整地解释一个最小的内容（atomic note） 用自己的话 建立新的笔记与现有笔记之间的关系——在我看来也是一个学习的过程，逐渐深入或者拓展。 另外一些操作：添加对应的标签等等。 写作 需要时刻记得，做笔记是为了什么，比如，变成自己的思考、转换成文章、视频、用于项目等 如果不输出，最后得到的也只是一堆双链笔记。 可以先列一个大纲-&amp;gt;把之前的相关的笔记填进去。然后再基于这个大纲，再完成最终的作品 但注意，这一步可能还是需要花很多的时间 Zettelkasten可以提升写作效率，但并不能代替最终的写作。 一些想法 坚持记录和写作，相信这个过程。Trust the Process 坚持用自己的话来描述——是在练习写作，同时也有助于加深理解。 Zettelkasten也可以用在工科的学术写作，比如这篇文章：Field Report #1: A PhD About Writing with His Zettelkasten • Zettelkasten Method。印象最深的是： 新的想法还是来自阅读和与人交流，而不是来自 Zettelkasten本身，但是Zettelkasten能帮助建立现有想法之间的联系。 一些想法和观点是通用的，不应被限制在某个项目中。——Luhmann’s Zettelkasten其实只有2个文件夹：文献、想法。 虽然基于 Zettelkasten笔记能快速建立一个大纲，最终的整理和写作还是困难的。 最后，不要花太多时间在工具或系统上：你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等 另外一些资料 推荐这个视频，5分钟左右把关键信息描述清楚：Zettelkasten Note-Taking Method: Simply Explained - YouTube 另外，有这个网站：Getting Started • Zettelkasten Method 这是翻译（粗粗一看，可能是机翻）：Zettelkasten方法简介 - 知乎 (zhihu.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian templater日记模板添加一个随机问题和Templater Javascript</title>
+      <link>qygong17.github.io/posts/random-questions-for-my-daily-notes/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/random-questions-for-my-daily-notes/</guid>
+      <description>简介 每天日记里写同样的东西，感觉有点无聊，想问自己一些问题，每天不同。
+查到有插件random structural diary，我想要的功能就是这样，但是没懂这个插件怎么放进template。
+想要的功能很简单，所以自己写一个：新建一个日记时，从一个自己设定的问题列表中选择一个，打印在日记中。
+写一个简单的脚本 randomDailyQuestion.js:
+1 2 3 4 5 6 7 8 9 10 11 12 function randomDailyQuestion() { let myQuestionArray = []; myQuestionArray.push(&amp;#34;Question apple&amp;#34;); myQuestionArray.push(&amp;#34;Question banana&amp;#34;); myQuestionArray.push(&amp;#34;Question orange&amp;#34;); let randomIndex = Math.floor(Math.random() * myQuestionArray.length); let randomQuestion = myQuestionArray[randomIndex]; return randomQuestion; } module.exports = randomDailyQuestion （语法全问GPT，比自己搜快多了） Templater设置 设置存放程序的目录：
+加入template 在对应的template代码中加入刚才的脚本，比如这里是在日期下面加了这个问题：
+# &amp;lt;% tp.date.now(&amp;#34;dddd MMMM Do YYYY&amp;#34;) %&amp;gt;&amp;lt;% tp.user.randomDailyQuestion(tp) %&amp;gt; 最终结果 上面两行显示为： 每次会打印其中一个问题。
+警告 注意，个人知识管理（personal knowledge management, PKM）并不等于实际的工作（除非你是这方面的博主）。不要花大量时间在这些花里胡哨的东西上面。去干活！！！</description>
+    </item>
+    
+    <item>
+      <title>FPGA LED呼吸灯</title>
+      <link>qygong17.github.io/posts/pwm-dimming-led/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/pwm-dimming-led/</guid>
+      <description>FPGA Verilog简单的LED呼吸灯，作为新板子的亮灯程序。
+这个LED在输出高电平时点亮。 主要的想法：
+CMP_MAX限制最大占空比，因为发现在占空比较大时，改变占空比时，亮度变化不大，效果不明显。 PWM_CNT_MAX设置PWM频率 DUTY_CNT_MAX设置占空比变化的频率 CMP_STEP设置每次占空比变化的步长，通过改变CMP_STEP来改变呼吸灯的频率 flag_duty_increase指示占空比变化的方向 代码 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 module pwm_led ( input clk, input reset_n, output led ); parameter PWM_CNT_MAX = 32&amp;#39;d50_000; //PWM frequency 50M/5e4=1kHz parameter CMP_MAX = 32&amp;#39;d25_000; //max duty ratio CMP_MAX/PWM_CNT_MAX=0.</description>
     </item>
     
     <item>
