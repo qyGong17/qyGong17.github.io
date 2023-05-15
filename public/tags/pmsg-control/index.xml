@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PMSG control on QY&#39;s Notes</title>
+    <link>qygong17.github.io/tags/pmsg-control/</link>
+    <description>Recent content in PMSG control on QY&#39;s Notes</description>
+    <image>
+      <title>QY&#39;s Notes</title>
+      <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/pmsg-control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PMSG0 background and learning resources</title>
+      <link>qygong17.github.io/posts/pmsg/pmsg0-background/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/pmsg/pmsg0-background/</guid>
+      <description>As I say background, it is actually a learning background of myself, not necessarily that of the PMSG.</description>
+    </item>
+    
+    <item>
+      <title>PMSG1 abc model</title>
+      <link>qygong17.github.io/posts/pmsg/pmsg1-abc-model/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/pmsg/pmsg1-abc-model/</guid>
+      <description>testing post 2</description>
+    </item>
+    
+  </channel>
+</rss>
