@@ -89,7 +89,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "QY's Notes"
-    Content: Welcome to my blog! I write about random stuff, and I work as a hardware (electronics) engineer. I used to write [here](https://blog.csdn.net/qq_34181877?spm=1011.2415.3001.5343) (in Chinese).
+    Content: Welcome to my blog! I write about random stuff, and I work as a hardware (electronics) engineer. 
 
   socialIcons:
     - name: github
