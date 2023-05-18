@@ -7,8 +7,6 @@ summary: A simple script
 tags: ["Obsidian", "scripts"]
 ---
 
-
-
 # Introduction
 Recently, I use Obsidian to write almost everything, including blog posts. I mainly use images and math in my posts. (I used to use PicGo to upload my images to a repo, now I started to store images locally.)
 So I wrote a simple Python script to modify my Obsidian markdown posts for publishing. 
@@ -20,9 +18,10 @@ So I wrote a simple Python script to modify my Obsidian markdown posts for publi
 3. Copy the mentioned image files to the image path, `repo/static/images`. 
 4. Do something to the `.md` file: 
 	1. Convert wiki image links to markdown links `![](/images/fname)`
-	2. `\\\` -> `\\\\` , or the (all the `\\\` will be changed, though, not just in math, but I )
-	3. Remove the comments at the beginning of my file ``
+	2. `\\` -> `\\\` , or the (all the `\\` will be changed, though, not just in math)
+	3. Remove the comments at the beginning of my file `%%some comments%%`
 	4. Write the new file to the post path, `repo/content/posts`
+
 
 # Script
 ```python
@@ -78,11 +77,11 @@ for file_name in file_names:
 # Hogo display images in /static/images/: `![](/images/a.jpg)`
 new_text = re.sub(pattern, r'![](/images/\1)', text)
 
-# for multiline math, `\\\` -> `\\\\`
-new_text = re.sub(r'\\\\\\', r'\\\\\\\\\', new_text)
+# for multiline math, `\\` -> `\\\`
+new_text = re.sub(r'\\\\', r'\\\\\\', new_text)
 
-# remove markdown comment ``. 
-new_text = re.sub(r'', '', new_text) 
+# remove markdown comment `%% comment\n comment2%%`. 
+new_text = re.sub(r'%%(.|\n)*?%%', '', new_text) 
 
 blog_dest_path = blog_content_dir + '/' + f_fullname
 with open(blog_dest_path, 'w',  encoding='utf-8') as f:
@@ -97,6 +96,8 @@ input('Press Enter to exit...')
 
 # Some links
 [How to use Glob() function to find files recursively in Python? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-use-glob-function-to-find-files-recursively-in-python/)
+
 [How can I write a regex which matches non greedy? - Stack Overflow](https://stackoverflow.com/questions/11898998/how-can-i-write-a-regex-which-matches-non-greedy?noredirect=1&lq=1)
+
 [devidw/obsidian-to-hugo: Process Obsidian notes to publish them with Hugo](https://github.com/devidw/obsidian-to-hugo)
 
