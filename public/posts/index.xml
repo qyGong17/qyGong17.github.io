@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python script for publishing blog posts from Obsidian</title>
+      <link>qygong17.github.io/posts/python-script-for-publishing-blog-posts-from-obsidian/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/python-script-for-publishing-blog-posts-from-obsidian/</guid>
+      <description>A simple script</description>
+    </item>
+    
     <item>
       <title>双拼输入法体验记录</title>
       <link>qygong17.github.io/posts/shuang-pin/</link>
@@ -46,7 +55,7 @@ PKM没有输出，只是一个辅助系统 优化PKM和笔记软件，让我们�
       <guid>qygong17.github.io/posts/test-figure-and-math/</guid>
       <description>Math Typeset math from: Writing math with Hugo | Misha Brukman
 test inline: $\psi_{rq} =L_ri_{rq}- \frac{L_{M}^{2}}{L_{s}}i_{rq}$
-test align: use 6 backslashes \\\\\\ instead of 2 \\, it works, but is odd&amp;hellip;
+test align: use 3 backslashes \\\ instead of 2 \\, it works, but is odd&amp;hellip;
 $$ \begin{aligned} u_{rd} &amp;amp;= R_ri_{rd}+ \sigma L_{r}\frac{d i_{rd}}{dt}-\omega_{s1}\sigma L_{r}i_{rq}+ \left(\frac{L_{M}}{L_{s}}\frac{d}{dt}\psi_{s}\approx 0 \right)\\\ u_{rq} &amp;amp;= R_ri_{rq}+\sigma L_{r}\frac{d i_{rq}}{dt}+\omega_{s1}\sigma L_{r}i_{rd}+\omega_{s1}\frac{L_{M}}{L_{s}} \psi_s \end{aligned} $$
 Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local figure, ![](/images/test_image.png), while the actual image file is in \static\images: Use local image and tips: Rendering Images in Markdown Preview of Hugo Site | Mike F.</description>
     </item>

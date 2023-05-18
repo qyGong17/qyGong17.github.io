@@ -12,7 +12,7 @@ Typeset math from: [Writing math with Hugo | Misha Brukman](https://misha.brukma
 test inline: $\psi_{rq} =L_ri_{rq}- \frac{L_{M}^{2}}{L_{s}}i_{rq}$
 
 test align: 
-use 6 backslashes `\\\\\\` instead of 2 `\\`, it works, but is odd...
+use 3 backslashes `\\\` instead of 2 `\\`, it works, but is odd...
 
 $$
 \begin{aligned}

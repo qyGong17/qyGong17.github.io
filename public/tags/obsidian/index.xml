@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 May 2023 22:55:24 +0800</lastBuildDate><atom:link href="qygong17.github.io/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python script for publishing blog posts from Obsidian</title>
+      <link>qygong17.github.io/posts/python-script-for-publishing-blog-posts-from-obsidian/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/python-script-for-publishing-blog-posts-from-obsidian/</guid>
+      <description>A simple script</description>
+    </item>
+    
     <item>
       <title>你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等</title>
       <link>qygong17.github.io/posts/thoughts-on-second-brain/</link>
