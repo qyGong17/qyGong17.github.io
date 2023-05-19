@@ -1,0 +1,18 @@
+.post-content code {
+    color: rgb(245, 8, 8);
+}  /* for inline code `code`*/
+.post-content a{
+    color: blue;
+} /* for urls [name](url)*/
+/* see PaperMod/assets/css/common/post-single.css*/
+
+
+ /*p > strong, li > strong {
+    color:rgb(1, 255, 14)
+} for bold **bold** */ 
+
+ /*.post-title {
+    margin-bottom: 2px;
+    font-size: 40px;
+}*/ 
+

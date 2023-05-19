@@ -11,7 +11,7 @@ tags: ["Obsidian", "scripts"]
 Recently, I use Obsidian to write almost everything, including blog posts. I mainly use images and math in my posts. (I used to use PicGo to upload my images to a repo, now I started to store images locally.)
 So I wrote a simple Python script to modify my Obsidian markdown posts for publishing. 
 
-- There are still many bugs (for example, when the wiki link is inside a code block), I guess, but it works for my recent posts. 
+- There are still **many** bugs (for example, when the wiki link is inside a code block), I guess, but it works for my recent posts. 
 
 1. Input a file name
 2. Search for it in the blog folder, `vault/Blogs`

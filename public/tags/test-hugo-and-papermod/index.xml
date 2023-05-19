@@ -25,5 +25,16 @@ $$ \begin{aligned} u_{rd} &amp;amp;= R_ri_{rd}+ \sigma L_{r}\frac{d i_{rd}}{dt}-
 Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local figure, ![](/images/test_image.png), while the actual image file is in \static\images: Use local image and tips: Rendering Images in Markdown Preview of Hugo Site | Mike F.</description>
     </item>
     
+    <item>
+      <title>A record of what I did to my blog</title>
+      <link>qygong17.github.io/posts/a-record-of-what-i-did-to-my-blog/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/a-record-of-what-i-did-to-my-blog/</guid>
+      <description>Since I don&amp;rsquo;t know the first thing about web design, all of the modifications are from Google or other bloggers. The source will be included. Thanks in advance.
+2023-05-15 Organizing content I planned a few blog posts for the basic modelling and control of PMSG. I wanted to put all the relevant posts into a folder, such as content/post/PMSG.
+Documentation: Content Organization | Hugo (gohugo.io) Demo: hugo-PaperMod/content/posts/papermod Source of the demo: PaperMod (adityatelange.</description>
+    </item>
+    
   </channel>
 </rss>

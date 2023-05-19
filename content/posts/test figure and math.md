@@ -87,6 +87,9 @@ and
 [Hugo博客目录放在侧边 | PaperMod主题 | Sulv's Blog (sulvblog.cn)](https://www.sulvblog.cn/posts/blog/hugo_toc_side/)
 
 
+test **bold**, *italics*, `inline code`
+
+
 # Reference
 
 Started this blog from this tutorial (internal access):
