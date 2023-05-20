@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microblaze1 Hello World LED</title>
+      <link>qygong17.github.io/posts/microblaze1-hello-world-led/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/microblaze1-hello-world-led/</guid>
+      <description>1 Introduction This post is a step-by-step guide implementing a blinking LED project with MicroBlaze:
+Create a minimal MicroBlaze project Sample code for blinking LED (based on a Xilinx demo) Implementation on the demo board I am new to FPGA and MicroBlaze, and I learned these all from the tutorials I found. References are at the end.
+I used:
+Device: xc7a35tfgg484-2, (an Artix-7 Mini board made by a Chinese company, Wildfire) Vivado 2018.</description>
+    </item>
+    
     <item>
       <title>Python script for publishing blog posts from Obsidian</title>
       <link>qygong17.github.io/posts/python-script-for-publishing-blog-posts-from-obsidian/</link>
