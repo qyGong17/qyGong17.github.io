@@ -139,7 +139,7 @@ File-export-export Hardware with default settings.
 ![](/images/img_2023-05-20-18.png)
 
 ## 2.11 Open SDK
-FIle-Launch SDK 
+File-Launch SDK 
 
 # 3 In SDK
 ## 3.1 New Application Project
