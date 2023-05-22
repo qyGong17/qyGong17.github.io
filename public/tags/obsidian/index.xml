@@ -18,7 +18,7 @@
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/obsidian-plugin-local-images-plus/</guid>
-      <description>My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to convert download these images and convert the url links to local image files.
+      <description>My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to download these images and convert the url links to local image limks.
 The Obsidian local images plus plugin does the job really well: Sergei-Korneev/obsidian-local-images-plus
 With one command, hundreds of images were downloaded and the related links updated:</description>
     </item>
