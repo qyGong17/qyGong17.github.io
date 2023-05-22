@@ -15,7 +15,7 @@ Using `Vivado 2018.3` .
 
 In this post, the previous `blinking LED` project, [Microblaze1 Hello World LED](https://qygong17.github.io/posts/microblaze1-hello-world-led/), is programmed into a flash. 
 
-When the code size is small, it fits directly in the BRAM, then, the configuration is easier and requires no bootloader or external RAM. 
+When the code size is small enough to fit in the BRAM, then, the flash configuration is easier and requires no bootloader or external RAM. We only need to include the application program (in this case, the blinking LED program) in the microblaze bitstream and store the bitstream in the flash. 
 
 1. 4-wire SPI configuration
 2. Associate the `.elf` file in the `updated` bitstream

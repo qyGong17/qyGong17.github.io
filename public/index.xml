@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian Plugin-local images plus</title>
+      <link>qygong17.github.io/posts/obsidian-plugin-local-images-plus/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/obsidian-plugin-local-images-plus/</guid>
+      <description>My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to convert download these images and convert the url links to local image files.
+The Obsidian local images plus plugin does the job really well: Sergei-Korneev/obsidian-local-images-plus
+With one command, hundreds of images were downloaded and the related links updated:</description>
+    </item>
+    
     <item>
       <title>Microblaze2 Boot from QSPI Flash (No bootloader)</title>
       <link>qygong17.github.io/posts/microblaze2-boot-from-qspi-flash-no-bootloader/</link>
