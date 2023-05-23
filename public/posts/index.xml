@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on The Collector’s Fallacy</title>
       <link>qygong17.github.io/posts/notes-on-the-collectors-fallacy/</link>
@@ -30,7 +30,7 @@ What to do instead We need to assimilate the information and increase our own kn
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/obsidian-plugin-local-images-plus/</guid>
-      <description>My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to download these images and convert the url links to local image limks.
+      <description>My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to download these images and convert the url links to local image links.
 The Obsidian local images plus plugin does the job really well: Sergei-Korneev/obsidian-local-images-plus
 With one command, hundreds of images were downloaded and the related links updated:</description>
     </item>

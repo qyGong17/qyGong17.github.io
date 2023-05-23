@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SIwave on QY&#39;s Notes</title>
+    <link>qygong17.github.io/posts/siwave/</link>
+    <description>Recent content in SIwave on QY&#39;s Notes</description>
+    <image>
+      <title>QY&#39;s Notes</title>
+      <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/siwave/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SIwave0 Allegro 16.6 Export ODB&#43;&#43;</title>
+      <link>qygong17.github.io/posts/siwave/siwave0-allegro-16.6-export-odb&#43;&#43;/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/siwave/siwave0-allegro-16.6-export-odb&#43;&#43;/</guid>
+      <description>Export an Allegro 16.6 PCB file to ODB++, to be imported in SIwave.</description>
+    </item>
+    
+  </channel>
+</rss>
