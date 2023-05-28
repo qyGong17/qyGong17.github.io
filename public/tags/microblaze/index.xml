@@ -11,7 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/microblaze/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/microblaze/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microblaze2.2 GPIO Interrupt</title>
+      <link>qygong17.github.io/posts/microblaze2.2-gpio-interrupt/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/microblaze2.2-gpio-interrupt/</guid>
+      <description>Hardware Platform Same hardware platform as in Microblaze2.1 JTAG-UART | QY&amp;rsquo;s Notes
+The key_gpio binds to a button on the board.
+Configurations The codes are modified from the interrupt example: xgpio_intr_tapp_example.c. (I found these examples a bit too complicated for a beginner like me.)
+Basically:
+Initialize the GPIO device Initialize the interrupt device Bind the GPIO interrupt handler function Enable interrupt (both in the GPIO device and the interrupt device) Wait for the interrupt Debug Every time the key is pressed, the LEDs are toggled, and a message is printed through JTAG UART .</description>
+    </item>
+    
     <item>
       <title>Microblaze2.1 JTAG-UART</title>
       <link>qygong17.github.io/posts/microblaze2.1-jtag-uart/</link>
