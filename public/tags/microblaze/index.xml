@@ -11,13 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/microblaze/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/microblaze/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Microblaze2 Boot from QSPI Flash (No bootloader)</title>
-      <link>qygong17.github.io/posts/microblaze2-boot-from-qspi-flash-no-bootloader/</link>
+      <title>Microblaze2.1 JTAG-UART</title>
+      <link>qygong17.github.io/posts/microblaze2.1-jtag-uart/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/microblaze2.1-jtag-uart/</guid>
+      <description>Using Vivado 2018.3 .
+Block Diagram Changes to Microblaze1 Hello World LED | QY&amp;rsquo;s Notes:
+An AXI Interrrupt Controller Another AXI_GPIO IP, gpio_key enable GPIO interrupt the interrupt output is connected to AXI Interrrupt Controller MDM module, enable JTAG UART Microblaze Enable interrupt controller Increase Local Memory to 128 KB Key GPIO Enable interrupt
+SDK BSP Settings Settings to direct print()/xil_printf() output to JTAG UART (nomarlly, these are the default, since only one UART is present here).</description>
+    </item>
+    
+    <item>
+      <title>Microblaze1.2 Boot from QSPI Flash (No bootloader)</title>
+      <link>qygong17.github.io/posts/microblaze1.2-boot-from-qspi-flash-no-bootloader/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>qygong17.github.io/posts/microblaze2-boot-from-qspi-flash-no-bootloader/</guid>
+      <guid>qygong17.github.io/posts/microblaze1.2-boot-from-qspi-flash-no-bootloader/</guid>
       <description>Flash Configuration for a MicroBlaze project running only in BRAM and without a bootloader.</description>
     </item>
     

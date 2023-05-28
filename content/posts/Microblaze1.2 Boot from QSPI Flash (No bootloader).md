@@ -1,5 +1,5 @@
 ---
-title: "Microblaze2 Boot from QSPI Flash (No bootloader)"
+title: "Microblaze1.2 Boot from QSPI Flash (No bootloader)"
 date: 2023-05-21
 draft: False
 math: katex
