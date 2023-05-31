@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>qygong17.github.io/tags/microblaze/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>qygong17.github.io/posts/microblaze2.2-gpio-interrupt/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <loc>qygong17.github.io/posts/microblaze3-i2c-eeprom-polled/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/tags/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>qygong17.github.io/posts/microblaze2.2-gpio-interrupt/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/microblaze2.1-jtag-uart/</loc>
