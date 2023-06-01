@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SIwave1 New Project and DC IR analysis</title>
+      <link>qygong17.github.io/posts/siwave/siwave1-new-project-and-dc-ir-analysis/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/siwave/siwave1-new-project-and-dc-ir-analysis/</guid>
+      <description>Using Ansys SIwave 2020R2.
+This post introduces a basic IR-drop analysis on the power planes using SIwave 2020R2.
+Analyze the voltage drop of one power rail, from source to chip. All the RLC components are deactivated except for those connected in series to the power rails. SIwave Documentation: Computing DC IR Simulations
+New Project Import ODB++ default setting for nets. The Workflow Wizard Open the Workflow Wizard from this button on the upper-left.</description>
+    </item>
+    
     <item>
       <title>Microblaze3 I2C EEPROM Polled</title>
       <link>qygong17.github.io/posts/microblaze3-i2c-eeprom-polled/</link>
