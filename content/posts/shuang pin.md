@@ -3,7 +3,7 @@ title: "双拼输入法体验记录"
 date: 2023-05-15
 draft: False
 math: katex
-tags: ["QY Tries"]
+tags: ["trying stuff"]
 ---
 
 # 背景
