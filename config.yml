@@ -92,9 +92,12 @@ params:
     Content: Welcome to my blog! I write about random stuff, and I work as a hardware (electronics) engineer. 
 
   socialIcons:
+    - name: email
+      url: "mailto:gqy1237@gmail.com"   
+    - name: goodreads
+      url: "https://www.goodreads.com/user/show/83381937-qingyuan-gong"   
     - name: github
       url: "https://github.com/qyGong17/"
-
   analytics:
     google:
       SiteVerificationTag: "qygong17"

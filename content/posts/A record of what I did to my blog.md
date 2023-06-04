@@ -48,3 +48,11 @@ Added `repo/assets/css/extended/text-color.css`:
 /* see PaperMod/assets/css/common/post-single.css*/
 ```
 - Learned from this discussion: [In-line code highlight - support - HUGO (gohugo.io)](https://discourse.gohugo.io/t/in-line-code-highlight/43744)
+
+## 2023-06-04
+Got a new domain: [www.gongqy.com](www.gongqy.com)
+
+From: [Github 部署个人网页 | 自定义域名 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/393050270)
+
+- Use `CNAME` instead of `A` in DNS settings, according to GitHub. (No idea what they are)
+- HTTPS: just wait for an hour or so
