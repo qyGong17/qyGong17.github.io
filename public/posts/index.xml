@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermal resistance and thermal characterisation parameter</title>
+      <link>qygong17.github.io/posts/thermal/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/thermal/</guid>
+      <description>A (bit simplistic) summary of thermal resistance, thermal characterisation parameter and how to use them to estimate junction temperature.</description>
+    </item>
+    
     <item>
       <title>草原 契诃夫</title>
       <link>qygong17.github.io/posts/%E8%8D%89%E5%8E%9F-%E5%A5%91%E8%AF%83%E5%A4%AB/</link>

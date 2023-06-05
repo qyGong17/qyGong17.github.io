@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermal resistance and thermal characterisation parameter</title>
+      <link>qygong17.github.io/posts/thermal/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/thermal/</guid>
+      <description>A (bit simplistic) summary of thermal resistance, thermal characterisation parameter and how to use them to estimate junction temperature.</description>
+    </item>
+    
     <item>
       <title>SIwave2 S-parameter Extraction</title>
       <link>qygong17.github.io/posts/siwave/siwave2-s-parameter-extraction/</link>
