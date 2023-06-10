@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>qygong17.github.io/tags/hardware/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>qygong17.github.io/posts/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/tags/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>qygong17.github.io/posts/%E7%99%BD%E5%A4%9C-%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>qygong17.github.io/tags/hardware/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/thermal/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/%E8%8D%89%E5%8E%9F-%E5%A5%91%E8%AF%83%E5%A4%AB/</loc>
-    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/cadence-orcad-%E5%B9%B3%E5%9D%A6%E5%8E%9F%E7%90%86%E5%9B%BE%E4%BD%BF%E7%94%A8port%E8%BF%98%E6%98%AFoff-page/</loc>

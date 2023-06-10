@@ -41,5 +41,3 @@ By the way, How I Met Your Mother is a good show.
 
 当然，没有了这些数据，似乎就没有了成就感，但其实也无所谓。这篇文章是在看youtube时候想到的。以每年读书的数量去评价“好的读者”，和以阅读数、粉丝数来评价“好的博客”，似乎有类似之处。
 [Don't Worry about Reading More Books. Focus on Reading Better. - YouTube](https://www.youtube.com/watch?v=kEGlJ2tlftU)
-
-And I'm posh enough to put "prose" or "essay"  in my tags. I'm  proud of myself. 
