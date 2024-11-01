@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>zettelkasten on QY&#39;s Notes</title>
+    <title>Zettelkasten on QY&#39;s Notes</title>
     <link>qygong17.github.io/tags/zettelkasten/</link>
-    <description>Recent content in zettelkasten on QY&#39;s Notes</description>
+    <description>Recent content in Zettelkasten on QY&#39;s Notes</description>
     <image>
       <title>QY&#39;s Notes</title>
       <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -18,10 +18,12 @@
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/notes-on-the-collectors-fallacy/</guid>
-      <description>Notes on: The Collector’s Fallacy • Zettelkasten Method
-Collector&amp;rsquo;s Fallacy Hoarding information, such as making copies and bookmarking webpages, can be addictive, because we have instant feedback: we did something, and the collection volumn increases.
-However, apart from the plies of collection, actually we haven&amp;rsquo;t learned a thing.
-What to do instead We need to assimilate the information and increase our own knowledge, and one of the first steps is to take notes.</description>
+      <description>&lt;p&gt;Notes on: &lt;a href=&#34;https://zettelkasten.de/posts/collectors-fallacy/&#34;&gt;The Collector’s Fallacy • Zettelkasten Method&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;collectors-fallacy&#34;&gt;Collector&amp;rsquo;s Fallacy&lt;/h1&gt;
+&lt;p&gt;Hoarding information, such as making copies and bookmarking webpages, can be addictive, because we have instant feedback: we did something, and the collection volumn increases.&lt;/p&gt;
+&lt;p&gt;However, apart from the plies of collection, actually we haven&amp;rsquo;t learned a thing.&lt;/p&gt;
+&lt;h1 id=&#34;what-to-do-instead&#34;&gt;What to do instead&lt;/h1&gt;
+&lt;p&gt;We need to assimilate the information and increase our own knowledge, and one of the first steps is to take notes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -30,9 +32,88 @@ What to do instead We need to assimilate the information and increase our own kn
       <pubDate>Sat, 13 May 2023 18:08:24 +0800</pubDate>
       
       <guid>qygong17.github.io/posts/learn_zettelkasten_blog/</guid>
-      <description>使用Zettelkasten方法做笔记 最近总看到Zettelkasten方法，看了一些视频和文章，主要看下怎么操作、从这个方法中可以学到什么。
-背景之类不再重复。主要记录操作方法等。
-Zettelkasten方法 接收信息：书、文章、视频、播客等 记笔记 为哪些内容做笔记： 有些人说，大部分感兴趣的东西都可以记下来 自己的一些想法 笔记里有什么 记录：尽量做到只看自己的记录就能理解这个笔记的内容，而不需要再去看之前的原文 来源：记录这个笔记来自哪里，备用。 标志：便于引用（数字化的笔记中，这是挺容易的，比如使用文件名+日期） 和其他笔记的关系：见 处理笔记 处理笔记 整理： 之前记录的笔记中，有些是临时的一些想法，有些结构比较混乱， How To Take Smart Notes (3 methods no one&amp;rsquo;s talking about) 2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up - YouTube 目标： 完整地解释一个最小的内容（atomic note） 用自己的话 建立新的笔记与现有笔记之间的关系——在我看来也是一个学习的过程，逐渐深入或者拓展。 另外一些操作：添加对应的标签等等。 写作 需要时刻记得，做笔记是为了什么，比如，变成自己的思考、转换成文章、视频、用于项目等 如果不输出，最后得到的也只是一堆双链笔记。 可以先列一个大纲-&amp;gt;把之前的相关的笔记填进去。然后再基于这个大纲，再完成最终的作品 但注意，这一步可能还是需要花很多的时间 Zettelkasten可以提升写作效率，但并不能代替最终的写作。 一些想法 坚持记录和写作，相信这个过程。Trust the Process 坚持用自己的话来描述——是在练习写作，同时也有助于加深理解。 Zettelkasten也可以用在工科的学术写作，比如这篇文章：Field Report #1: A PhD About Writing with His Zettelkasten • Zettelkasten Method。印象最深的是： 新的想法还是来自阅读和与人交流，而不是来自 Zettelkasten本身，但是Zettelkasten能帮助建立现有想法之间的联系。 一些想法和观点是通用的，不应被限制在某个项目中。——Luhmann’s Zettelkasten其实只有2个文件夹：文献、想法。 虽然基于 Zettelkasten笔记能快速建立一个大纲，最终的整理和写作还是困难的。 最后，不要花太多时间在工具或系统上：你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等 另外一些资料 推荐这个视频，5分钟左右把关键信息描述清楚：Zettelkasten Note-Taking Method: Simply Explained - YouTube 另外，有这个网站：Getting Started • Zettelkasten Method 这是翻译（粗粗一看，可能是机翻）：Zettelkasten方法简介 - 知乎 (zhihu.</description>
+      <description>&lt;p&gt;使用Zettelkasten方法做笔记
+最近总看到Zettelkasten方法，看了一些视频和文章，主要看下怎么操作、从这个方法中可以学到什么。&lt;/p&gt;
+&lt;p&gt;背景之类不再重复。主要记录操作方法等。&lt;/p&gt;
+&lt;h1 id=&#34;zettelkasten方法&#34;&gt;Zettelkasten方法&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;接收信息：书、文章、视频、播客等&lt;/li&gt;
+&lt;li&gt;记笔记
+&lt;ol&gt;
+&lt;li&gt;为哪些内容做笔记：
+&lt;ol&gt;
+&lt;li&gt;有些人说，大部分感兴趣的东西都可以记下来&lt;/li&gt;
+&lt;li&gt;自己的一些想法&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;笔记里有什么
+&lt;ol&gt;
+&lt;li&gt;记录：尽量做到只看自己的记录就能理解这个笔记的内容，而不需要再去看之前的原文&lt;/li&gt;
+&lt;li&gt;来源：记录这个笔记来自哪里，备用。&lt;/li&gt;
+&lt;li&gt;标志：便于引用（数字化的笔记中，这是挺容易的，比如使用文件名+日期）&lt;/li&gt;
+&lt;li&gt;和其他笔记的关系：见 &lt;code&gt;处理笔记&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;处理笔记
+&lt;ol&gt;
+&lt;li&gt;整理：
+&lt;ol&gt;
+&lt;li&gt;之前记录的笔记中，有些是临时的一些想法，有些结构比较混乱，&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5O46Rqh5zHE&amp;amp;t=26s&#34;&gt;How To Take Smart Notes (3 methods no one&amp;rsquo;s talking about)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HSTOSWOhNo4&#34;&gt;2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;目标：
+&lt;ol&gt;
+&lt;li&gt;完整地解释一个最小的内容（atomic note）&lt;/li&gt;
+&lt;li&gt;用自己的话&lt;/li&gt;
+&lt;li&gt;建立新的笔记与现有笔记之间的关系——在我看来也是一个学习的过程，逐渐深入或者拓展。&lt;/li&gt;
+&lt;li&gt;另外一些操作：添加对应的标签等等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;写作
+&lt;ol&gt;
+&lt;li&gt;需要时刻记得，做笔记是为了什么，比如，变成自己的思考、转换成文章、视频、用于项目等
+&lt;ol&gt;
+&lt;li&gt;如果不输出，最后得到的也只是一堆双链笔记。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;可以先列一个大纲-&amp;gt;把之前的相关的笔记填进去。然后再基于这个大纲，再完成最终的作品
+&lt;ol&gt;
+&lt;li&gt;但注意，这一步可能还是需要花很多的时间&lt;/li&gt;
+&lt;li&gt;Zettelkasten可以提升写作效率，但并不能代替最终的写作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;一些想法&#34;&gt;一些想法&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;坚持记录和写作，相信这个过程。&lt;a href=&#34;https://zettelkasten.de/posts/trust-the-process-nickmilo22/&#34;&gt;Trust the Process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;坚持用自己的话来描述——是在练习写作，同时也有助于加深理解。&lt;/li&gt;
+&lt;li&gt;Zettelkasten也可以用在工科的学术写作，比如这篇文章：&lt;a href=&#34;https://zettelkasten.de/posts/henrik-zettelkasten-paper-submission/&#34;&gt;Field Report #1: A PhD About Writing with His Zettelkasten • Zettelkasten Method&lt;/a&gt;。印象最深的是：
+&lt;ol&gt;
+&lt;li&gt;新的想法还是来自阅读和与人交流，而不是来自 Zettelkasten本身，但是Zettelkasten能帮助建立现有想法之间的联系。&lt;/li&gt;
+&lt;li&gt;一些想法和观点是通用的，不应被限制在某个项目中。——Luhmann’s Zettelkasten其实只有2个文件夹：文献、想法。&lt;/li&gt;
+&lt;li&gt;虽然基于 Zettelkasten笔记能快速建立一个大纲，最终的整理和写作还是困难的。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;最后，不要花太多时间在工具或系统上：&lt;a href=&#34;https://qygong17.github.io/posts/thoughts-on-second-brain/&#34;&gt;你真的需要“第二大脑”笔记系统吗？Obsidian/Notion/Roam/Logseq等等&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;另外一些资料&#34;&gt;另外一些资料&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;推荐这个视频，5分钟左右把关键信息描述清楚：&lt;a href=&#34;https://www.youtube.com/watch?v=rOSZOCoqOo8&#34;&gt;Zettelkasten Note-Taking Method: Simply Explained - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;另外，有这个网站：&lt;a href=&#34;https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method&#34;&gt;Getting Started • Zettelkasten Method&lt;/a&gt;
+&lt;ol&gt;
+&lt;li&gt;这是翻译（粗粗一看，可能是机翻）：&lt;a href=&#34;https://zhuanlan.zhihu.com/p/299377905&#34;&gt;Zettelkasten方法简介 - 知乎 (zhihu.com)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tevinzhang.com/digital-zettelkasten&#34;&gt;A digital approach to Luhmann’s Zettelkasten (Slip Box) | Tevin Zhang&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
   </channel>

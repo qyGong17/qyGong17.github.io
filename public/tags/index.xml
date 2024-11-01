@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>读书笔记</title>
+      <link>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>随笔</title>
       <link>qygong17.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
@@ -31,16 +40,7 @@
     </item>
     
     <item>
-      <title>读书笔记</title>
-      <link>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hardware</title>
+      <title>Hardware</title>
       <link>qygong17.github.io/tags/hardware/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -67,7 +67,7 @@
     </item>
     
     <item>
-      <title>microblaze</title>
+      <title>Microblaze</title>
       <link>qygong17.github.io/tags/microblaze/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>zettelkasten</title>
+      <title>Zettelkasten</title>
       <link>qygong17.github.io/tags/zettelkasten/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
@@ -112,7 +112,7 @@
     </item>
     
     <item>
-      <title>scripts</title>
+      <title>Scripts</title>
       <link>qygong17.github.io/tags/scripts/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       
@@ -121,7 +121,7 @@
     </item>
     
     <item>
-      <title>PMSG control</title>
+      <title>PMSG Control</title>
       <link>qygong17.github.io/tags/pmsg-control/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
@@ -130,7 +130,7 @@
     </item>
     
     <item>
-      <title>trying stuff</title>
+      <title>Trying Stuff</title>
       <link>qygong17.github.io/tags/trying-stuff/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
@@ -139,7 +139,7 @@
     </item>
     
     <item>
-      <title>video</title>
+      <title>Video</title>
       <link>qygong17.github.io/tags/video/</link>
       <pubDate>Sun, 14 May 2023 22:55:24 +0800</pubDate>
       
@@ -148,7 +148,7 @@
     </item>
     
     <item>
-      <title>test Hugo and PaperMod</title>
+      <title>Test Hugo and PaperMod</title>
       <link>qygong17.github.io/tags/test-hugo-and-papermod/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       

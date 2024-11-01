@@ -18,12 +18,29 @@
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/cadence-orcad-%E5%B9%B3%E5%9D%A6%E5%8E%9F%E7%90%86%E5%9B%BE%E4%BD%BF%E7%94%A8port%E8%BF%98%E6%98%AFoff-page/</guid>
-      <description>使用OrCAD 16.6。（17.2简单测试好像也有这个问题，不知道更新的版本是否不同）
-结论 平坦原理图中，个人推荐使用off-page connector.
-使用Port的问题 主要是DRC的问题。port名称不匹配造成单端网络时，在平坦原理图中DRC不会报错。
-比如，下图两页中的data1信号，一个接了data1 port，另一个接了 data3 port，但是DRC不会报错。感觉这容易导致设计错误。
-删除port的情况 删除port，如果两个net alias名称相同，DRC会有警告。
-Checking For Single Node NetsWARNING(ORCAP-1600): Net has fewer than two connections data1 SCHEMATIC1, PAGE1 (3.50, 1.60) WARNING(ORCAP-1600): Net has fewer than two connections data1 SCHEMATIC1, PAGE2 (3.80, 2.40) Checking For Unconnected Bus NetsWARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector data1 SCHEMATIC1, PAGE2 (3.80, 2.40) 使用off-page的情况 使用off-page connector，但是名称不匹配时，DRC也会有警告。</description>
+      <description>&lt;p&gt;使用&lt;code&gt;OrCAD 16.6&lt;/code&gt;。（17.2简单测试好像也有这个问题，不知道更新的版本是否不同）&lt;/p&gt;
+&lt;h1 id=&#34;结论&#34;&gt;结论&lt;/h1&gt;
+&lt;p&gt;平坦原理图中，&lt;code&gt;个人推荐使用off-page connector&lt;/code&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;使用port的问题&#34;&gt;使用Port的问题&lt;/h1&gt;
+&lt;p&gt;主要是DRC的问题。port名称不匹配造成单端网络时，在平坦原理图中&lt;code&gt;DRC不会报错&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;比如，下图两页中的&lt;code&gt;data1&lt;/code&gt;信号，一个接了&lt;code&gt;data1 port&lt;/code&gt;，另一个接了 &lt;code&gt;data3 port&lt;/code&gt;，但是DRC不会报错。感觉这容易导致设计错误。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-06-02.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;删除port的情况&#34;&gt;删除port的情况&lt;/h1&gt;
+&lt;p&gt;删除port，如果两个net alias名称相同，DRC会有警告。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-06-02-1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections data1 
+                    SCHEMATIC1, PAGE1  (3.50, 1.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections data1 
+                    SCHEMATIC1, PAGE2  (3.80, 2.40) 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector data1 
+                    SCHEMATIC1, PAGE2  (3.80, 2.40) 
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;使用off-page的情况&#34;&gt;使用off-page的情况&lt;/h1&gt;
+&lt;p&gt;使用off-page connector，但是名称不匹配时，DRC也会有警告。&lt;/p&gt;</description>
     </item>
     
   </channel>

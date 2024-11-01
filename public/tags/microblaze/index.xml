@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>microblaze on QY&#39;s Notes</title>
+    <title>Microblaze on QY&#39;s Notes</title>
     <link>qygong17.github.io/tags/microblaze/</link>
-    <description>Recent content in microblaze on QY&#39;s Notes</description>
+    <description>Recent content in Microblaze on QY&#39;s Notes</description>
     <image>
       <title>QY&#39;s Notes</title>
       <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -27,11 +27,21 @@
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/microblaze2.2-gpio-interrupt/</guid>
-      <description>Hardware Platform Same hardware platform as in Microblaze2.1 JTAG-UART | QY&amp;rsquo;s Notes
-The key_gpio binds to a button on the board.
-Configurations The codes are modified from the interrupt example: xgpio_intr_tapp_example.c. (I found these examples a bit too complicated for a beginner like me.)
-Basically:
-Initialize the GPIO device Initialize the interrupt device Bind the GPIO interrupt handler function Enable interrupt (both in the GPIO device and the interrupt device) Wait for the interrupt Debug Every time the key is pressed, the LEDs are toggled, and a message is printed through JTAG UART .</description>
+      <description>&lt;h1 id=&#34;hardware-platform&#34;&gt;Hardware Platform&lt;/h1&gt;
+&lt;p&gt;Same hardware platform as in &lt;a href=&#34;https://qygong17.github.io/posts/microblaze2.1-jtag-uart/&#34;&gt;Microblaze2.1 JTAG-UART | QY&amp;rsquo;s Notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;key_gpio&lt;/code&gt; binds to a button on the board.&lt;/p&gt;
+&lt;h1 id=&#34;configurations&#34;&gt;Configurations&lt;/h1&gt;
+&lt;p&gt;The codes are modified from the interrupt example: &lt;code&gt;xgpio_intr_tapp_example.c&lt;/code&gt;. (I found these examples a bit too complicated for a beginner like me.)&lt;/p&gt;
+&lt;p&gt;Basically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Initialize the &lt;code&gt;GPIO device&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Initialize the &lt;code&gt;interrupt device&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Bind the GPIO interrupt handler function&lt;/li&gt;
+&lt;li&gt;Enable interrupt (both in the GPIO device and the interrupt device)&lt;/li&gt;
+&lt;li&gt;Wait for the interrupt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;debug&#34;&gt;Debug&lt;/h1&gt;
+&lt;p&gt;Every time the key is pressed, the LEDs are toggled, and a message is printed through &lt;code&gt;JTAG UART&lt;/code&gt; .&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,10 +50,35 @@ Initialize the GPIO device Initialize the interrupt device Bind the GPIO interru
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/microblaze2.1-jtag-uart/</guid>
-      <description>Using Vivado 2018.3 .
-Block Diagram Changes to Microblaze1 Hello World LED | QY&amp;rsquo;s Notes:
-An AXI Interrrupt Controller Another AXI_GPIO IP, gpio_key enable GPIO interrupt the interrupt output is connected to AXI Interrrupt Controller MDM module, enable JTAG UART Microblaze Enable interrupt controller Increase Local Memory to 128 KB Key GPIO Enable interrupt
-SDK BSP Settings Settings to direct print()/xil_printf() output to JTAG UART (nomarlly, these are the default, since only one UART is present here).</description>
+      <description>&lt;p&gt;Using &lt;code&gt;Vivado 2018.3&lt;/code&gt; .&lt;/p&gt;
+&lt;h1 id=&#34;block-diagram&#34;&gt;Block Diagram&lt;/h1&gt;
+&lt;p&gt;Changes to &lt;a href=&#34;https://qygong17.github.io/posts/microblaze1-hello-world-led/&#34;&gt;Microblaze1 Hello World LED | QY&amp;rsquo;s Notes&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An AXI Interrrupt Controller&lt;/li&gt;
+&lt;li&gt;Another AXI_GPIO IP, &lt;code&gt;gpio_key&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;enable GPIO interrupt&lt;/li&gt;
+&lt;li&gt;the interrupt output is connected to AXI Interrrupt Controller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MDM module, enable &lt;code&gt;JTAG UART&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-25-2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;microblaze&#34;&gt;Microblaze&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enable &lt;code&gt;interrupt controller&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Increase Local Memory to &lt;code&gt;128 KB&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-25.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;key-gpio&#34;&gt;Key GPIO&lt;/h2&gt;
+&lt;p&gt;Enable interrupt&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-25-3.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;sdk&#34;&gt;SDK&lt;/h1&gt;
+&lt;h2 id=&#34;bsp-settings&#34;&gt;BSP Settings&lt;/h2&gt;
+&lt;p&gt;Settings to direct &lt;code&gt;print()/xil_printf()&lt;/code&gt; output to &lt;code&gt;JTAG UART&lt;/code&gt; (nomarlly, these are the default, since only one UART is present here).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,10 +96,21 @@ SDK BSP Settings Settings to direct print()/xil_printf() output to JTAG UART (no
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/microblaze1-hello-world-led/</guid>
-      <description>1 Introduction This post is a step-by-step guide implementing a blinking LED project with MicroBlaze:
-Create a minimal MicroBlaze project Sample code for blinking LED (based on a Xilinx demo) Implementation on the demo board I am new to FPGA and MicroBlaze, and I learned these all from the tutorials I found. References are at the end.
-I used:
-Device: xc7a35tfgg484-2, (an Artix-7 Mini board made by a Chinese company, Wildfire) Vivado 2018.</description>
+      <description>&lt;h1 id=&#34;1-introduction&#34;&gt;1 Introduction&lt;/h1&gt;
+&lt;p&gt;This post is a step-by-step guide implementing a blinking LED project with MicroBlaze:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a minimal MicroBlaze project&lt;/li&gt;
+&lt;li&gt;Sample code for blinking LED (based on a Xilinx demo)&lt;/li&gt;
+&lt;li&gt;Implementation on the demo board&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am new to FPGA and MicroBlaze, and I learned these all from the tutorials I found. References are at the end.&lt;/p&gt;
+&lt;p&gt;I used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Device: xc7a35tfgg484-2, (an Artix-7 Mini board made by a Chinese company, Wildfire)&lt;/li&gt;
+&lt;li&gt;Vivado 2018.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2-in-vivado&#34;&gt;2 In Vivado&lt;/h1&gt;
+&lt;p&gt;New RTL project and select the correct device.&lt;/p&gt;</description>
     </item>
     
   </channel>

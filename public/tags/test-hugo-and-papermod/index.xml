@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>test Hugo and PaperMod on QY&#39;s Notes</title>
+    <title>Test Hugo and PaperMod on QY&#39;s Notes</title>
     <link>qygong17.github.io/tags/test-hugo-and-papermod/</link>
-    <description>Recent content in test Hugo and PaperMod on QY&#39;s Notes</description>
+    <description>Recent content in Test Hugo and PaperMod on QY&#39;s Notes</description>
     <image>
       <title>QY&#39;s Notes</title>
       <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -18,11 +18,24 @@
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/test-figure-and-math/</guid>
-      <description>Math Typeset math from: Writing math with Hugo | Misha Brukman
-test inline: $\psi_{rq} =L_ri_{rq}- \frac{L_{M}^{2}}{L_{s}}i_{rq}$
-test align: use 3 backslashes \\\ instead of 2 \\, it works, but is odd&amp;hellip;
-$$ \begin{aligned} u_{rd} &amp;amp;= R_ri_{rd}+ \sigma L_{r}\frac{d i_{rd}}{dt}-\omega_{s1}\sigma L_{r}i_{rq}+ \left(\frac{L_{M}}{L_{s}}\frac{d}{dt}\psi_{s}\approx 0 \right)\\\ u_{rq} &amp;amp;= R_ri_{rq}+\sigma L_{r}\frac{d i_{rq}}{dt}+\omega_{s1}\sigma L_{r}i_{rd}+\omega_{s1}\frac{L_{M}}{L_{s}} \psi_s \end{aligned} $$
-Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local figure, ![](/images/test_image.png), while the actual image file is in \static\images: Use local image and tips: Rendering Images in Markdown Preview of Hugo Site | Mike F.</description>
+      <description>&lt;h1 id=&#34;math&#34;&gt;Math&lt;/h1&gt;
+&lt;p&gt;Typeset math from: &lt;a href=&#34;https://misha.brukman.net/blog/2022/04/writing-math-with-hugo/&#34;&gt;Writing math with Hugo | Misha Brukman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;test inline: $\psi_{rq} =L_ri_{rq}- \frac{L_{M}^{2}}{L_{s}}i_{rq}$&lt;/p&gt;
+&lt;p&gt;test align:
+use 3 backslashes &lt;code&gt;\\\&lt;/code&gt; instead of 2 &lt;code&gt;\\&lt;/code&gt;, it works, but is odd&amp;hellip;&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+u_{rd} &amp;amp;= R_ri_{rd}+ \sigma L_{r}\frac{d i_{rd}}{dt}-\omega_{s1}\sigma L_{r}i_{rq}+ \left(\frac{L_{M}}{L_{s}}\frac{d}{dt}\psi_{s}\approx 0 \right)\\\
+u_{rq} &amp;amp;= R_ri_{rq}+\sigma L_{r}\frac{d i_{rq}}{dt}+\omega_{s1}\sigma L_{r}i_{rd}+\omega_{s1}\frac{L_{M}}{L_{s}} \psi_s
+\end{aligned}
+$$&lt;/p&gt;
+&lt;h1 id=&#34;figure&#34;&gt;Figure&lt;/h1&gt;
+&lt;p&gt;A figure from my oss, Markdown syntax &lt;code&gt;![](myoss.com/1.png)&lt;/code&gt; works:
+&lt;img loading=&#34;lazy&#34; src=&#34;https://pics1237.oss-cn-shenzhen.aliyuncs.com/20230427223520.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;A local figure, &lt;code&gt;![](/images/test_image.png)&lt;/code&gt;, while the actual image file is in &lt;code&gt;\static\images&lt;/code&gt;:
+&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/test_image.png&#34; alt=&#34;/images/test_image.png&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,9 +44,16 @@ Figure A figure from my oss, Markdown syntax ![](myoss.com/1.png) works: A local
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/a-record-of-what-i-did-to-my-blog/</guid>
-      <description>Since I don&amp;rsquo;t know the first thing about web design, all of the modifications are from Google or other bloggers. The source will be included. Thanks in advance.
-2023-05-15 Organizing content I planned a few blog posts for the basic modelling and control of PMSG. I wanted to put all the relevant posts into a folder, such as content/post/PMSG.
-Documentation: Content Organization | Hugo (gohugo.io) Demo: hugo-PaperMod/content/posts/papermod Source of the demo: PaperMod (adityatelange.</description>
+      <description>&lt;p&gt;Since I don&amp;rsquo;t know the first thing about web design, all of the modifications are from Google or other bloggers. The source will be included. Thanks in advance.&lt;/p&gt;
+&lt;h2 id=&#34;2023-05-15&#34;&gt;2023-05-15&lt;/h2&gt;
+&lt;h3 id=&#34;organizing-content&#34;&gt;Organizing content&lt;/h3&gt;
+&lt;p&gt;I planned a few blog posts for the basic modelling and control of PMSG. I wanted to put all the relevant posts into a folder, such as &lt;code&gt;content/post/PMSG&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://gohugo.io/content-management/organization/&#34;&gt;Content Organization | Hugo (gohugo.io)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Demo: &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content/posts/papermod&#34;&gt;hugo-PaperMod/content/posts/papermod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source of the demo: &lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/&#34;&gt;PaperMod (adityatelange.github.io)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Summary: create &lt;code&gt;content/post/PMSG/_index.md&lt;/code&gt;. (It has to be &lt;code&gt;_index.md&lt;/code&gt;) And  &lt;code&gt;_index.md&lt;/code&gt; will not be listed in posts.&lt;/p&gt;</description>
     </item>
     
   </channel>

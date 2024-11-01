@@ -27,10 +27,24 @@
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/siwave/siwave1-new-project-and-dc-ir-analysis/</guid>
-      <description>Using Ansys SIwave 2020R2.
-This post introduces a basic IR-drop analysis on the power planes using SIwave 2020R2.
-Analyze the voltage drop of one power rail, from source to chip. All the RLC components are deactivated except for those connected in series to the power rails. SIwave Documentation: Computing DC IR Simulations
-New Project Import ODB++ default setting for nets. The Workflow Wizard Open the Workflow Wizard from this button on the upper-left.</description>
+      <description>&lt;p&gt;Using &lt;code&gt;Ansys SIwave 2020R2&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;This post introduces a basic IR-drop analysis on the power planes using SIwave 2020R2.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze the voltage drop of one power rail, from source to chip.&lt;/li&gt;
+&lt;li&gt;All the RLC components are deactivated except for those connected in series to the power rails.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SIwave Documentation: &lt;a href=&#34;https://ansyshelp.ansys.com/account/secured?returnurl=qygong17.github.io/Views/Secured/Electronics/v202/en/home.htm%23../Subsystems/SIwave/Content/ComputingDCSimulations.htm%3FTocPath%3DSIwave%7CSIwave%2520Help%7CRunning%2520Simulations%7CSIwave%2520Simulations%7CComputing%2520DC%2520IR%2520Simulations%7C_____0&#34;&gt;Computing DC IR Simulations&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;new-project&#34;&gt;New Project&lt;/h1&gt;
+&lt;h2 id=&#34;import-odb&#34;&gt;Import ODB++&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-28-2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-28-1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;default setting for nets.
+&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-28-3.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;the-workflow-wizard&#34;&gt;The Workflow Wizard&lt;/h1&gt;
+&lt;p&gt;Open the &lt;code&gt;Workflow Wizard&lt;/code&gt; from this button on the upper-left.&lt;/p&gt;</description>
     </item>
     
     <item>

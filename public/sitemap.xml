@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>qygong17.github.io/posts/</loc>
-    <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/</loc>
-    <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/tags/</loc>
-    <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>qygong17.github.io/posts/%E4%B8%8D%E5%BE%97%E8%B4%AA%E8%83%9C-%E6%9D%8E%E6%98%8C%E9%95%90/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/%E5%87%BA%E5%8F%91/</loc>
     <lastmod>2023-07-23T00:00:00+00:00</lastmod>
@@ -24,9 +30,6 @@
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/%E7%99%BD%E5%A4%9C-%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA/</loc>
-    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>qygong17.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/tags/hardware/</loc>
@@ -101,10 +104,10 @@
     <loc>qygong17.github.io/tags/scripts/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>qygong17.github.io/tags/pmsg-control/</loc>
+    <loc>qygong17.github.io/posts/pmsg/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>qygong17.github.io/posts/pmsg/</loc>
+    <loc>qygong17.github.io/tags/pmsg-control/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>qygong17.github.io/posts/pmsg/pmsg0-background/</loc>

@@ -18,9 +18,11 @@
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/obsidian-plugin-local-images-plus/</guid>
-      <description>My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to download these images and convert the url links to local image links.
-The Obsidian local images plus plugin does the job really well: Sergei-Korneev/obsidian-local-images-plus
-With one command, hundreds of images were downloaded and the related links updated:</description>
+      <description>&lt;p&gt;My Online Storage Service (OSS) is about to expire, and I decide to use local images in the future, therefore, I wanted to download these images and convert the url links to local image links.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;Obsidian local images plus&lt;/code&gt; plugin does the job really well: &lt;a href=&#34;https://github.com/Sergei-Korneev/obsidian-local-images-plus&#34;&gt;Sergei-Korneev/obsidian-local-images-plus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With one command, hundreds of images were downloaded and the related links updated:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/img_2023-05-22.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -38,12 +40,95 @@ With one command, hundreds of images were downloaded and the related links updat
       <pubDate>Sun, 14 May 2023 22:55:24 +0800</pubDate>
       
       <guid>qygong17.github.io/posts/thoughts-on-second-brain/</guid>
-      <description>结论是，不一定需要，但是这些工具却很容易被当做是“刚需”。新的工具有自己的学习曲线，这些学习时间，不如用来做一些其他事情（使用顺手的工具即可）。
-原视频：Stop Procrastinating With Note-Taking Apps Like Obsidian, Roam, Logseq 是对所谓“第二大脑”的各种笔记软件和相对应的各种“高级拖延技术”的一些反思。 这是我基于问题-论据-结论，对视频内容的整理。并且，因为原视频是英文，在写作过程中，肯定有一些paraphrase。
-这里的“工作”，是广义的工作，可以是自己一直想做的事情，比如写一篇文章。 这里的“PKM”，是个人知识管理（personal knowledge management）。可以是一个系统，也可以具体到使用某个软件来做笔记。 部分不在视频里的内容，做了说明。 优化PKM是工作吗？ 大部分情况，不是。
-PKM没有输出，只是一个辅助系统 优化PKM和笔记软件，让我们看起来很厉害很聪明，是一种高级的拖延方法，让我们在没开始工作时就获得了一种“已完成”的感觉，类似： 一直在做学习前的各种准备工作 做很复杂（并且没必要）的计划， 看很多方法学相关的书。 一直和人讨论自己的想法，从来不开始做 博主自己的经历和感受 一开始觉得双链笔记看起来好高级，用了以后感觉自己都变聪明了 但是发现输出的东西、所做的工作、以及自己实际上其实并没有显得更聪明——这只是一种“变聪明的错觉” 看起来是在做准备工作，但是从结果来看，其实和看Netflix、打游戏没什么区别 好的PKM是开始工作的前提吗？ 大部分人会否认，但是潜意识里又掉进了这个“优化PKM”的陷阱。
-陷入添加、优化新功能，换新的工具的无底洞中 一直在换新工具，期待有一个革命性的工具来完全改变自己的工作 一直在优化自己的工具，看教程，学各种复杂操作（Obsidian的一大堆插件其实也挺像个陷阱） 以为做了这个优化、用了这个工具，我的效率就会突然提高两倍——实际上并不会 工作过程中，都会有不确定性、混乱、无奈，不可能先把做事情的系统调整到完美，再开始做事情。 collector&amp;rsquo;s fallacy: 收集的信息本身并没有用，而是要看我们基于这些信息，输出了什么。 没有一个完美的系统，对于现有的笔记软件，总有一个新软件比旧软件在某个方面好那么一点点。而追逐这么一点点效率（比如，在Obsidian里基于双链打开相关的笔记，和在一个文件夹里根据文件名搜一个word文档），不是在工作。 好的PKM系统可以提高效率，但是并不能代替努力工作。 怎样不落入这个陷阱？ 使用不完美的系统持续工作和输出——所有系统都不可能是完美的。
-意识到优化PKM不是工作： 如果潜意识认为PKM是在工作，你就可能会花大量的时间来优化这个系统。 博主自己也换了不少的笔记工具，觉得这些切换工具花费的时间应该被用来做实际的工作。 我感觉自己也花了太多时间在上面，（其实，很多Obsidian教程我都看不懂。。。） 用自己顺手的工具，高效地工作。（Good enough） 锻炼肌肉需要一定的锻炼和饮食，而不是一个最佳的锻炼计划。 作家的成果： 有优秀PKM系统的作家，可以高效写作； 持续写作的作家，可能效率不高，但也能出成果； 而一直在拖延、优化PKM、做笔记的作家，实际上什么都没做。 在看到新的工具和PKM系统时，问自己： 真的需要这些新的功能吗？ 真的有必要切换工具吗？ 我自己昨天的经历（这也不是视频里的）：拍了个视频，想要截取其中的部分画面，再转成gif，放到博文里去（FPGA: Verilog LED呼吸灯_Fantasy237的博客），但是以前没做过这种操作，刚准备搜个软件来学一下——想到，在播放视频时，用录屏软件截屏就好了，不需要什么新的软件。 想一想一些例子： 博主的一个朋友，用Evernote和Word，创业做得不错。 博主的另一个朋友，只用纸笔，也写出了优秀的作品。 以前都没有电脑，还是有人能做出影响世界的东西。 一些建议 用一个系统或一个笔记软件，坚持半年以上，最好是正在使用的——不需要更厉害的新工具。 相信自己的能力和思考，比依赖所谓“第二大脑”更重要。——不要害怕因为没做某个笔记，就错过了什么重要的东西。保持阅读和输出。 基于一些项目——比如要写的一篇博文——来做笔记。因为值得记录的东西是无穷无尽的，需要加以筛选。 优先完成工作和提升所需的能力，而不是一直去调整做笔记的方法或者PKM系统。 设置一些限制，比如，只在周日花2小时优化PKM系统，其他时间只基于现有的系统去完成工作。（比如我现在这样） 用Epictetus的一段话作为结束（这是我突然想起来的，不是视频里的）：</description>
+      <description>&lt;p&gt;结论是，不一定需要，但是这些工具却很容易被当做是“刚需”。新的工具有自己的学习曲线，这些学习时间，不如用来做一些其他事情（使用顺手的工具即可）。&lt;/p&gt;
+&lt;p&gt;原视频：&lt;a href=&#34;https://www.youtube.com/watch?v=baKCC2uTbRc&amp;amp;t=38s&#34;&gt;Stop Procrastinating With Note-Taking Apps Like Obsidian, Roam, Logseq&lt;/a&gt;
+是对所谓“第二大脑”的各种笔记软件和相对应的各种“高级拖延技术”的一些反思。
+这是我基于&lt;code&gt;问题-论据-结论&lt;/code&gt;，对视频内容的整理。并且，因为原视频是英文，在写作过程中，肯定有一些paraphrase。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这里的“工作”，是广义的工作，可以是自己一直想做的事情，比如写一篇文章。&lt;/li&gt;
+&lt;li&gt;这里的“PKM”，是个人知识管理（personal knowledge management）。可以是一个系统，也可以具体到使用某个软件来做笔记。&lt;/li&gt;
+&lt;li&gt;部分不在视频里的内容，做了说明。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;优化pkm是工作吗&#34;&gt;优化PKM是工作吗？&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;大部分情况，不是。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;PKM没有输出，只是一个辅助系统&lt;/li&gt;
+&lt;li&gt;优化PKM和笔记软件，让我们看起来很厉害很聪明，是一种高级的拖延方法，让我们在没开始工作时就获得了一种“已完成”的感觉，类似：
+&lt;ol&gt;
+&lt;li&gt;一直在做学习前的各种准备工作&lt;/li&gt;
+&lt;li&gt;做很复杂（并且没必要）的计划， 看很多方法学相关的书。&lt;/li&gt;
+&lt;li&gt;一直和人讨论自己的想法，从来不开始做&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;博主自己的经历和感受
+&lt;ol&gt;
+&lt;li&gt;一开始觉得双链笔记看起来好高级，用了以后感觉自己都变聪明了&lt;/li&gt;
+&lt;li&gt;但是发现输出的东西、所做的工作、以及自己实际上其实并没有显得更聪明——这只是一种“变聪明的错觉”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;看起来是在做准备工作，但是从结果来看，其实和看Netflix、打游戏没什么区别&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;好的pkm是开始工作的前提吗&#34;&gt;好的PKM是开始工作的前提吗？&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;大部分人会否认，但是潜意识里又掉进了这个“优化PKM”的陷阱。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;陷入添加、优化新功能，换新的工具的无底洞中
+&lt;ol&gt;
+&lt;li&gt;一直在换新工具，期待有一个革命性的工具来完全改变自己的工作&lt;/li&gt;
+&lt;li&gt;一直在优化自己的工具，看教程，学各种复杂操作（Obsidian的一大堆插件其实也挺像个陷阱）&lt;/li&gt;
+&lt;li&gt;以为做了这个优化、用了这个工具，我的效率就会突然提高两倍——实际上并不会&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;工作过程中，都会有不确定性、混乱、无奈，不可能先把做事情的系统调整到完美，再开始做事情。&lt;/li&gt;
+&lt;li&gt;collector&amp;rsquo;s fallacy: 收集的信息本身并没有用，而是要看我们基于这些信息，输出了什么。&lt;/li&gt;
+&lt;li&gt;没有一个完美的系统，对于现有的笔记软件，总有一个新软件比旧软件在某个方面好那么一点点。而追逐这么一点点效率（&lt;code&gt;比如，在Obsidian里基于双链打开相关的笔记，和在一个文件夹里根据文件名搜一个word文档&lt;/code&gt;），不是在工作。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;好的PKM系统可以提高效率，但是并不能代替努力工作。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;怎样不落入这个陷阱&#34;&gt;怎样不落入这个陷阱？&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;使用不完美的系统持续工作和输出——所有系统都不可能是完美的。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;意识到优化PKM不是工作：
+&lt;ol&gt;
+&lt;li&gt;如果潜意识认为PKM是在工作，你就可能会花大量的时间来优化这个系统。&lt;/li&gt;
+&lt;li&gt;博主自己也换了不少的笔记工具，觉得这些切换工具花费的时间应该被用来做实际的工作。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;我感觉自己也花了太多时间在上面，（其实，很多Obsidian教程我都看不懂。。。）&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;用自己顺手的工具，高效地工作。（Good enough）
+&lt;ol&gt;
+&lt;li&gt;锻炼肌肉需要一定的锻炼和饮食，而不是一个最佳的锻炼计划。&lt;/li&gt;
+&lt;li&gt;作家的成果：
+&lt;ol&gt;
+&lt;li&gt;有优秀PKM系统的作家，可以高效写作；&lt;/li&gt;
+&lt;li&gt;持续写作的作家，可能效率不高，但也能出成果；&lt;/li&gt;
+&lt;li&gt;而一直在拖延、优化PKM、做笔记的作家，实际上什么都没做。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;在看到新的工具和PKM系统时，问自己：
+&lt;ol&gt;
+&lt;li&gt;真的需要这些新的功能吗？&lt;/li&gt;
+&lt;li&gt;真的有必要切换工具吗？&lt;/li&gt;
+&lt;li&gt;我自己昨天的经历（&lt;code&gt;这也不是视频里的&lt;/code&gt;）：拍了个视频，想要截取其中的部分画面，再转成gif，放到博文里去（&lt;a href=&#34;https://blog.csdn.net/qq_34181877/article/details/130537517?spm=1001.2014.3001.5501&#34;&gt;FPGA: Verilog LED呼吸灯_Fantasy237的博客&lt;/a&gt;），但是以前没做过这种操作，刚准备搜个软件来学一下——想到，在播放视频时，用录屏软件截屏就好了，不需要什么新的软件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;想一想一些例子：
+&lt;ol&gt;
+&lt;li&gt;博主的一个朋友，用Evernote和Word，创业做得不错。&lt;/li&gt;
+&lt;li&gt;博主的另一个朋友，只用纸笔，也写出了优秀的作品。&lt;/li&gt;
+&lt;li&gt;以前都没有电脑，还是有人能做出影响世界的东西。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;一些建议&#34;&gt;一些建议&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;用一个系统或一个笔记软件，坚持半年以上，最好是正在使用的——不需要更厉害的新工具。&lt;/li&gt;
+&lt;li&gt;相信自己的能力和思考，比依赖所谓“第二大脑”更重要。——不要害怕因为没做某个笔记，就错过了什么重要的东西。保持阅读和输出。&lt;/li&gt;
+&lt;li&gt;基于一些项目——比如要写的一篇博文——来做笔记。因为值得记录的东西是无穷无尽的，需要加以筛选。&lt;/li&gt;
+&lt;li&gt;优先完成工作和提升所需的能力，而不是一直去调整做笔记的方法或者PKM系统。&lt;/li&gt;
+&lt;li&gt;设置一些限制，比如，只在周日花2小时优化PKM系统，其他时间只基于现有的系统去完成工作。（&lt;code&gt;比如我现在这样&lt;/code&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;用Epictetus的一段话作为结束（&lt;code&gt;这是我突然想起来的，不是视频里的&lt;/code&gt;）：&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,14 +137,62 @@ PKM没有输出，只是一个辅助系统 优化PKM和笔记软件，让我们�
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
       <guid>qygong17.github.io/posts/random-questions-for-my-daily-notes/</guid>
-      <description>简介 每天日记里写同样的东西，感觉有点无聊，想问自己一些问题，每天不同。
-查到有插件random structural diary，我想要的功能就是这样，但是没懂这个插件怎么放进template。
-想要的功能很简单，所以自己写一个：新建一个日记时，从一个自己设定的问题列表中选择一个，打印在日记中。
-写一个简单的脚本 randomDailyQuestion.js:
-1 2 3 4 5 6 7 8 9 10 11 12 function randomDailyQuestion() { let myQuestionArray = []; myQuestionArray.push(&amp;#34;Question apple&amp;#34;); myQuestionArray.push(&amp;#34;Question banana&amp;#34;); myQuestionArray.push(&amp;#34;Question orange&amp;#34;); let randomIndex = Math.floor(Math.random() * myQuestionArray.length); let randomQuestion = myQuestionArray[randomIndex]; return randomQuestion; } module.exports = randomDailyQuestion （语法全问GPT，比自己搜快多了） Templater设置 设置存放程序的目录：
-加入template 在对应的template代码中加入刚才的脚本，比如这里是在日期下面加了这个问题：
-# &amp;lt;% tp.date.now(&amp;#34;dddd MMMM Do YYYY&amp;#34;) %&amp;gt;&amp;lt;% tp.user.randomDailyQuestion(tp) %&amp;gt; 最终结果 上面两行显示为： 每次会打印其中一个问题。
-警告 注意，个人知识管理（personal knowledge management, PKM）并不等于实际的工作（除非你是这方面的博主）。不要花大量时间在这些花里胡哨的东西上面。去干活！！！</description>
+      <description>&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
+&lt;p&gt;每天日记里写同样的东西，感觉有点无聊，想问自己一些问题，每天不同。&lt;/p&gt;
+&lt;p&gt;查到有插件&lt;code&gt;random structural diary&lt;/code&gt;，我想要的功能就是这样，但是没懂这个插件怎么放进template。&lt;/p&gt;
+&lt;p&gt;想要的功能很简单，所以自己写一个：新建一个日记时，从一个自己设定的问题列表中选择一个，打印在日记中。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/20230507150708.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;写一个简单的脚本&#34;&gt;写一个简单的脚本&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;randomDailyQuestion.js&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;randomDailyQuestion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;myQuestionArray&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;myQuestionArray&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Question apple&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;myQuestionArray&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Question banana&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;myQuestionArray&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Question orange&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;randomIndex&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;Math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;random&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;myQuestionArray&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;length&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;randomQuestion&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;myQuestionArray&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;randomIndex&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;randomQuestion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;module&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exports&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;randomDailyQuestion&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;（语法全问GPT，比自己搜快多了）
+&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/20230507152310.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;templater设置&#34;&gt;Templater设置&lt;/h1&gt;
+&lt;p&gt;设置存放程序的目录：&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/20230507153819.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;加入template&#34;&gt;加入template&lt;/h1&gt;
+&lt;p&gt;在对应的template代码中加入刚才的脚本，比如这里是在日期下面加了这个问题：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# &amp;lt;% tp.date.now(&amp;#34;dddd MMMM Do YYYY&amp;#34;) %&amp;gt;
+&amp;lt;% tp.user.randomDailyQuestion(tp) %&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;最终结果&#34;&gt;最终结果&lt;/h1&gt;
+&lt;p&gt;上面两行显示为：
+&lt;img loading=&#34;lazy&#34; src=&#34;qygong17.github.io/images/20230507154855.png&#34; alt=&#34;&#34;  /&gt;
+
+每次会打印其中一个问题。&lt;/p&gt;
+&lt;h1 id=&#34;警告&#34;&gt;警告&lt;/h1&gt;
+&lt;p&gt;注意，个人知识管理（personal knowledge management, PKM）&lt;strong&gt;并不等于实际的工作&lt;/strong&gt;（除非你是这方面的博主）。不要花大量时间在这些花里胡哨的东西上面。&lt;strong&gt;去干活！！！&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
