@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reading on QY&#39;s Notes</title>
+    <link>qygong17.github.io/posts/reading_notes/</link>
+    <description>Recent content in Reading on QY&#39;s Notes</description>
+    <image>
+      <title>QY&#39;s Notes</title>
+      <url>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>qygong17.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="qygong17.github.io/posts/reading_notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026-02-24 Reading 2</title>
+      <link>qygong17.github.io/posts/reading_notes/2026-02-24/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/reading_notes/2026-02-24/</guid>
+      <description>Day 2. Discourses, and Poirot</description>
+    </item>
+    
+    <item>
+      <title>2026-02-23 Reading 1</title>
+      <link>qygong17.github.io/posts/reading_notes/2026-02-23/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>qygong17.github.io/posts/reading_notes/2026-02-23/</guid>
+      <description>试着记录一下读的书。尽量每周更新几次。</description>
+    </item>
+    
+  </channel>
+</rss>
